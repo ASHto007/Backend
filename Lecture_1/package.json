@@ -1,0 +1,19 @@
+{
+  "name": "first_server",
+  "version": "1.0.0",
+  "description": "my server file using nodejs",
+  "license": "ISC",
+  "author": "Ash",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "dependencies": {
+    "mongodb": "^7.2.0"
+  }
+}

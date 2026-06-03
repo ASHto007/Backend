@@ -1,0 +1,4 @@
+Name: JohnDoe
+dept: Acc
+position: Manager
+salary: 5000
